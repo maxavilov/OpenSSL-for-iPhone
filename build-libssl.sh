@@ -22,7 +22,8 @@
 #  Change values here													  #
 #				
 VERSION="1.0.1j"													      #
-SDKVERSION=`xcrun -sdk iphoneos --show-sdk-version`														  #
+#SDKVERSION=`xcrun -sdk iphoneos --show-sdk-version`														  #
+SDKVERSION="7.1"
 #																		  #
 ###########################################################################
 #																		  #
